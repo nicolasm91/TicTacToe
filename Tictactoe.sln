@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tictactoe", "Tictactoe\Tictactoe.csproj", "{D0465759-5669-44B3-A5BF-D6A6905015EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TTTserver", "TTTserver\TTTserver.csproj", "{CEDC27F1-174E-4A23-9DF6-9B85357F9498}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0465759-5669-44B3-A5BF-D6A6905015EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0465759-5669-44B3-A5BF-D6A6905015EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0465759-5669-44B3-A5BF-D6A6905015EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0465759-5669-44B3-A5BF-D6A6905015EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEDC27F1-174E-4A23-9DF6-9B85357F9498}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEDC27F1-174E-4A23-9DF6-9B85357F9498}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEDC27F1-174E-4A23-9DF6-9B85357F9498}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEDC27F1-174E-4A23-9DF6-9B85357F9498}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {444C6800-2EC1-429F-9BD0-81FC1C102D2B}
+	EndGlobalSection
+EndGlobal
